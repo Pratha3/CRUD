@@ -1,0 +1,32 @@
+{
+  "user": [
+    {
+      "id": "521d",
+      "name": "PRATHA BAGTHARIA",
+      "email": "PRATHABAGTHARIA@GMAIL.COM",
+      "phone": "07383884149",
+      "address": "STREET NO.13 4TH HOUSE, J",
+      "password": "asdfg",
+      "gender": "female",
+      "hobby": [
+        "painting"
+      ],
+      "city": "surat"
+    },
+    {
+      "id": "bbe0",
+      "name": "PRATHA BAGTHARIA",
+      "email": "PRATHABAGTHARIA@GMAIL.COM",
+      "phone": "5383884149",
+      "address": "STREET NO.13 4TH HOUSE, J",
+      "password": "asdfgh",
+      "gender": "female",
+      "hobby": "painting",
+      "city": "chennai"
+    }
+  ],
+  "admin": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
